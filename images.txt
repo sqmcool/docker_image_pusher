@@ -1,14 +1,15 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 docker.io/redis:6.2-alpine
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
-ghcr.io/monlor/xiaoya-jellyfin:latest
+#ghcr.io/monlor/xiaoya-alist:latest
+#ghcr.io/monlor/xiaoya-metadata:latest
+#ghcr.io/monlor/xiaoya-embyserver:latest
+#ghcr.io/monlor/xiaoya-jellyfin:latest
+docker.io/portainer/portainer-ce:latest
 
