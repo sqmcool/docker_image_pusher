@@ -11,5 +11,5 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
 #ghcr.io/monlor/xiaoya-metadata:latest
 #ghcr.io/monlor/xiaoya-embyserver:latest
 #ghcr.io/monlor/xiaoya-jellyfin:latest
-docker.io/portainer/portainer-ce:latest
+#docker.io/portainer/portainer-ce:latest
 
