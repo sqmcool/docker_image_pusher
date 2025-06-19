@@ -6,8 +6,8 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
-docker.io/redis:6.2-alpine@sha256:905c4ee67b8e0aa955331960d2aa745781e6bd89afc44a8584bfd13bc890f0ae
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+docker.io/valkey/valkey:8-bookworm@sha256:fec42f399876eb6faf9e008570597741c87ff7662a54185593e74b09ce83d177
+ghcr.io/immich-app/postgres:14-vectorchord0.4.1-pgvectors0.2.0
 #ghcr.io/monlor/xiaoya-alist:latest
 #ghcr.io/monlor/xiaoya-metadata:latest
 #ghcr.io/monlor/xiaoya-embyserver:latest
